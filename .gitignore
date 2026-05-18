@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+
+# Environment
+.env
+.env.local
+*.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+
+# Development databases
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+demo_chroma_db/
+day*_demo_db/
+test_*_db/
+
+# Logs
+*.log
+logs/
+
+# Output directories (regenerated)
+output/
+temp/
+test_reports/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/

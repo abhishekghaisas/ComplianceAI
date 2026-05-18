@@ -1,0 +1,401 @@
+[
+  {
+    "obligations": [
+      {
+        "text": "Bureau to prescribe such rules and issue such guidance as may be necessary to carry out, enforce, and compile data pursuant to section 1071",
+        "plain_language": "The CFPB must create rules and guidance to implement section 1071 requirements for small business lending data collection and enforcement.",
+        "who_must_comply": "Consumer Financial Protection Bureau",
+        "action_required": "Prescribe rules and issue guidance necessary to carry out, enforce, and compile data under section 1071",
+        "deadline": null,
+        "trigger_condition": "Section 1071 of the Dodd-Frank Act",
+        "exemptions": null,
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "Section 1071"
+      },
+      {
+        "text": "Financial institutions must collect and report data on small business lending",
+        "plain_language": "Banks and other financial institutions are required to gather and submit information about their small business lending activities.",
+        "who_must_comply": "all financial institutions",
+        "action_required": "Collect and report data on small business lending activities",
+        "deadline": null,
+        "trigger_condition": "As specified in Regulation B, subpart B compliance dates",
+        "exemptions": "Those not subject to the rule's compliance deadlines per court orders",
+        "penalty": "Regulatory enforcement action",
+        "severity": "high",
+        "section_reference": "12 CFR Part 1002, subpart B"
+      }
+    ],
+    "prohibitions": [],
+    "deadlines": [
+      {
+        "date": "2023-05-31",
+        "action": "Final rule implementing section 1071 by adding subpart B to Regulation B became effective",
+        "who": "all financial institutions subject to Regulation B",
+        "consequence": "Rule provisions became binding"
+      },
+      {
+        "date": "2024-07-03",
+        "action": "Interim final rule published extending compliance dates for data collection and reporting on small business lending",
+        "who": "financial institutions preparing to comply with section 1071",
+        "consequence": "Extended compliance deadlines for certain market participants per court orders"
+      },
+      {
+        "date": "2025-06-18",
+        "action": "Interim final rule published with further amendments to Regulation B, subpart B",
+        "who": "all financial institutions subject to small business lending requirements",
+        "consequence": "Additional amendments to coverage, definitions, data points, and compliance dates became effective"
+      }
+    ],
+    "exemptions": [
+      {
+        "who": "Plaintiffs and intervenors in litigation challenging the 2023 final rule",
+        "condition": "In three jurisdictions where courts stayed the rule's compliance deadlines",
+        "section_reference": "2024 interim final rule discussion"
+      },
+      {
+        "who": "Non-plaintiffs and non-intervenors in litigation",
+        "condition": "Courts did not stay compliance dates for those not parties to litigation",
+        "section_reference": "2024 interim final rule discussion"
+      }
+    ],
+    "definitions": [
+      {
+        "term": "Small business",
+        "definition": "Definition subject to amendment in this final rule regarding small business definition",
+        "relevance": "Determines which credit transactions and financial institutions are covered by Regulation B, subpart B requirements"
+      },
+      {
+        "term": "Section 1071",
+        "definition": "Section 1071 of the Dodd-Frank Wall Street Reform and Consumer Protection Act directing the Bureau to prescribe rules and guidance for small business lending data collection and enforcement",
+        "relevance": "The statutory authority and mandate for Regulation B, subpart B"
+      },
+      {
+        "term": "Regulation B, subpart B",
+        "definition": "Regulatory provisions implementing section 1071 requirements for small business lending under the Equal Credit Opportunity Act",
+        "relevance": "The regulatory framework governing small business lending data collection, reporting, and compliance obligations"
+      }
+    ],
+    "section_number": 1
+  },
+  {
+    "obligations": [
+      {
+        "text": "financial institutions collect and report to the Bureau certain data regarding applications for credit for women-owned, minority-owned, and small businesses",
+        "plain_language": "Financial institutions must gather and submit specific data about credit applications from small businesses and women/minority-owned businesses to the CFPB.",
+        "who_must_comply": "all financial institutions",
+        "action_required": "collect and report data regarding applications for credit",
+        "deadline": null,
+        "trigger_condition": "when applications for credit are received for small businesses, women-owned businesses, or minority-owned businesses",
+        "exemptions": null,
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "Section 1071 of Dodd-Frank Act, amending ECOA"
+      }
+    ],
+    "prohibitions": [],
+    "deadlines": [
+      {
+        "date": "2026-06-30",
+        "action": "final rule becomes effective",
+        "who": "all covered financial institutions",
+        "consequence": "rule takes effect and institutions must begin compliance preparations"
+      },
+      {
+        "date": "2028-01-01",
+        "action": "compliance date for the rule",
+        "who": "all covered financial institutions",
+        "consequence": "institutions must be in full compliance with all requirements; failure to comply may result in enforcement action"
+      },
+      {
+        "date": "2025-10-02",
+        "action": "final rule published in Federal Register confirming 2025 interim final rule findings",
+        "who": "CFPB and covered financial institutions",
+        "consequence": "establishes final compliance framework with no further substantive changes"
+      }
+    ],
+    "exemptions": [],
+    "definitions": [
+      {
+        "term": "Section 1071",
+        "definition": "provision of the Dodd-Frank Wall Street Reform and Consumer Protection Act that amended the Equal Credit Opportunity Act to require collection and reporting of data regarding applications for credit for small businesses, women-owned businesses, and minority-owned businesses",
+        "relevance": "defines the statutory authority and scope of the regulatory requirements for small business lending data collection"
+      },
+      {
+        "term": "Regulation B",
+        "definition": "CFPB regulation implementing the Equal Credit Opportunity Act",
+        "relevance": "the regulation being amended to implement Section 1071 requirements"
+      },
+      {
+        "term": "ECOA",
+        "definition": "Equal Credit Opportunity Act",
+        "relevance": "the underlying federal statute being amended by Section 1071 to require small business lending data collection"
+      },
+      {
+        "term": "covered financial institutions",
+        "definition": "financial institutions subject to the Section 1071 reporting requirements, including banks, credit unions, community development financial institutions (CDFIs), community development companies, Farm Credit System (FCS) lenders, and online lenders",
+        "relevance": "identifies which entities must comply with the data collection and reporting obligations"
+      }
+    ],
+    "section_number": 2
+  },
+  {
+    "obligations": [
+      {
+        "text": "facilitate enforcement of fair lending laws",
+        "plain_language": "Financial institutions must support efforts to enforce fair lending regulations",
+        "who_must_comply": "all financial institutions",
+        "action_required": "Cooperate with fair lending enforcement activities",
+        "deadline": null,
+        "trigger_condition": "Ongoing regulatory requirement",
+        "exemptions": null,
+        "penalty": "Regulatory enforcement action",
+        "severity": "high",
+        "section_reference": "Section 1071, ECOA sec. 704B, 15 U.S.C. 1691c\u20132"
+      },
+      {
+        "text": "enable communities, governmental organizations, entities, and creditors to identify business and community development needs and opportunities of women-owned, minority-owned, and small businesses",
+        "plain_language": "Institutions must provide data that helps identify lending needs for women-owned, minority-owned, and small businesses",
+        "who_must_comply": "all financial institutions subject to section 1071",
+        "action_required": "Collect and report small business lending data as specified in regulations",
+        "deadline": null,
+        "trigger_condition": "Applicability under section 1071 requirements",
+        "exemptions": null,
+        "penalty": "Regulatory enforcement action",
+        "severity": "high",
+        "section_reference": "Section 1071, ECOA sec. 704B, 15 U.S.C. 1691c\u20132"
+      },
+      {
+        "text": "The Bureau received approximately 410 comments on the 2025 proposed rule",
+        "plain_language": "The CFPB accepted public comments on proposed amendments to small business lending data collection rules",
+        "who_must_comply": "public commenters",
+        "action_required": "Submit comments during designated comment periods",
+        "deadline": "2025-12-15",
+        "trigger_condition": "When CFPB publishes proposed rules in Federal Register",
+        "exemptions": null,
+        "penalty": "Comments submitted after deadline may not be considered",
+        "severity": "low",
+        "section_reference": "2025 proposed rule, Federal Register Vol. 91, No. 84"
+      },
+      {
+        "text": "The Bureau believes that it should approach the section 1071 data collection regime as a longer-term project akin to HMDA",
+        "plain_language": "The CFPB intends to implement section 1071 data collection gradually, similar to how HMDA was implemented",
+        "who_must_comply": "all financial institutions subject to section 1071",
+        "action_required": "Prepare for phased implementation of data collection requirements",
+        "deadline": null,
+        "trigger_condition": "Upon final rule issuance",
+        "exemptions": null,
+        "penalty": "Non-compliance with final rule requirements",
+        "severity": "high",
+        "section_reference": "Section 1071, 15 U.S.C. 1691c\u20132"
+      },
+      {
+        "text": "commence the collection of data with a narrower scope to ensure its quality and to limit, as much as possible, any disturbance of the provision and availability of credit",
+        "plain_language": "Data collection will start with limited scope to maintain data quality and avoid disrupting credit availability",
+        "who_must_comply": "all financial institutions subject to section 1071",
+        "action_required": "Comply with narrower initial data collection scope as defined in final rule",
+        "deadline": null,
+        "trigger_condition": "Upon final rule issuance and effective date",
+        "exemptions": null,
+        "penalty": "Regulatory enforcement action for non-compliance",
+        "severity": "high",
+        "section_reference": "Section 1071, 15 U.S.C. 1691c\u20132"
+      }
+    ],
+    "prohibitions": [],
+    "deadlines": [
+      {
+        "date": "2025-12-15",
+        "action": "Submit comments on 2025 proposed rule to amend 2023 final rule",
+        "who": "Public commenters and interested parties",
+        "consequence": "Comments submitted after this date may not be considered in rulemaking"
+      },
+      {
+        "date": "2025-11-13",
+        "action": "CFPB published 2025 proposed rule in Federal Register",
+        "who": "CFPB",
+        "consequence": "Initiated comment period for proposed amendments"
+      }
+    ],
+    "exemptions": [],
+    "definitions": [
+      {
+        "term": "Section 1071",
+        "definition": "Public Law 111\u2013203, tit. X, sec. 1071, 124 Stat. 1376, 2056 (2010), codified at ECOA sec. 704B, 15 U.S.C. 1691c\u20132",
+        "relevance": "Establishes authority for CFPB to require small business lending data collection to facilitate fair lending enforcement and identify community development needs"
+      },
+      {
+        "term": "ECOA",
+        "definition": "Equal Credit Opportunity Act, 15 U.S.C. 1691 et seq.",
+        "relevance": "Federal law prohibiting discrimination in credit transactions; section 704B (section 1071) requires data collection on small business lending"
+      },
+      {
+        "term": "Women-owned, minority-owned, and small businesses",
+        "definition": "Categories of businesses for which lending data must be collected and analyzed",
+        "relevance": "Identifies the specific business categories that are focus of section 1071 data collection requirements"
+      },
+      {
+        "term": "HMDA",
+        "definition": "Home Mortgage Disclosure Act; referenced as model for phased implementation approach",
+        "relevance": "The CFPB intends to implement section 1071 data collection using a similar long-term, phased approach as was used for HMDA"
+      },
+      {
+        "term": "2023 final rule",
+        "definition": "Final rule implementing section 1071 requirements issued in 2023",
+        "relevance": "Baseline regulation being amended by 2025 proposed rule; some provisions remain unchanged while others are modified"
+      },
+      {
+        "term": "2025 interim final rule",
+        "definition": "Interim final rule addressing section 1071 requirements published in 2025",
+        "relevance": "Addressed complexity and scope issues; subject to further amendment through 2025 proposed rule"
+      },
+      {
+        "term": "2025 proposed rule",
+        "definition": "Proposed amendments to 2023 final rule published November 13, 2025",
+        "relevance": "Seeks to modify data collection scope and requirements; comment period closed December 15, 2025"
+      }
+    ],
+    "section_number": 3
+  },
+  {
+    "obligations": [
+      {
+        "text": "the Bureau now believes that an incremental approach will better serve the statutory purposes of section 1071 in the long term. Such an approach will start with core lending products, core providers, and core data points.",
+        "plain_language": "The CFPB will implement section 1071 data collection gradually, beginning with essential lending products, major lenders, and key data points.",
+        "who_must_comply": "all financial institutions",
+        "action_required": "Comply with an incremental approach to data collection starting with core lending products, core providers, and core data points",
+        "deadline": null,
+        "trigger_condition": "Implementation of section 1071 small business lending data collection",
+        "exemptions": null,
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "Section 1071"
+      },
+      {
+        "text": "The Bureau has consulted with the appropriate prudential regulators and other Federal agencies regarding consistency with any prudential, market, or systemic objectives",
+        "plain_language": "The CFPB must coordinate with prudential regulators and other federal agencies to ensure consistency with their objectives.",
+        "who_must_comply": "CFPB",
+        "action_required": "Consult with appropriate prudential regulators and other Federal agencies regarding prudential, market, or systemic objectives",
+        "deadline": null,
+        "trigger_condition": "During rulemaking process for section 1071",
+        "exemptions": null,
+        "penalty": null,
+        "severity": "medium",
+        "section_reference": "Section 1071"
+      },
+      {
+        "text": "Federal agencies to remove references and questions discussing gender identity",
+        "plain_language": "Federal agencies must eliminate questions and references about gender identity from data collection.",
+        "who_must_comply": "all financial institutions subject to federal data collection requirements",
+        "action_required": "Remove references and questions discussing gender identity from data collection instruments",
+        "deadline": null,
+        "trigger_condition": "Pursuant to Executive Order 14168 issued January 20, 2025",
+        "exemptions": null,
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "Executive Order 14168, Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government"
+      },
+      {
+        "text": "directing agencies to use those terms when seeking information about an individual's sex",
+        "plain_language": "When collecting information about sex, agencies must use binary male/female categories only.",
+        "who_must_comply": "all financial institutions subject to federal data collection requirements",
+        "action_required": "Use binary male/female sex categories when collecting information about individuals",
+        "deadline": null,
+        "trigger_condition": "Pursuant to Executive Order 14168 issued January 20, 2025",
+        "exemptions": null,
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "Executive Order 14168, Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government"
+      }
+    ],
+    "prohibitions": [
+      {
+        "text": "remove references and questions discussing gender identity",
+        "plain_language": "Questions and references about gender identity are prohibited in federal data collection.",
+        "prohibited_action": "Including references to or questions about gender identity in data collection",
+        "scope": "All Federal agencies and financial institutions subject to federal data collection requirements",
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "Executive Order 14168"
+      }
+    ],
+    "deadlines": [],
+    "exemptions": [],
+    "definitions": [
+      {
+        "term": "core lending products",
+        "definition": "Essential or primary lending products that will be the initial focus of section 1071 data collection",
+        "relevance": "Determines which loan types must be reported first under the incremental implementation approach"
+      },
+      {
+        "term": "core providers",
+        "definition": "Primary financial institutions including banks, credit unions, CDFIs, FCS lenders, and online lenders that will be initial focus of data collection",
+        "relevance": "Identifies which lenders must comply with initial section 1071 reporting requirements"
+      },
+      {
+        "term": "core data points",
+        "definition": "Essential data elements that will be collected in the initial phase of section 1071 implementation",
+        "relevance": "Specifies which data fields lenders must collect and report in the first iteration of the rule"
+      },
+      {
+        "term": "section 1071",
+        "definition": "Statutory provision requiring collection of small business lending data under the Equal Credit Opportunity Act",
+        "relevance": "The primary statutory authority governing small business lending data collection requirements"
+      },
+      {
+        "term": "incremental approach",
+        "definition": "A phased implementation strategy starting with modest requirements and core products, with potential expansion over time",
+        "relevance": "Defines the implementation methodology for section 1071 data collection, allowing for future amendments as experience is gained"
+      }
+    ],
+    "section_number": 4
+  },
+  {
+    "obligations": [
+      {
+        "text": "financial institutions to collect and report to the Bureau certain data on applications for small business lending",
+        "plain_language": "Financial institutions must gather and submit specific information about small business loan applications to the CFPB.",
+        "who_must_comply": "all financial institutions",
+        "action_required": "collect and report data on small business lending applications",
+        "deadline": null,
+        "trigger_condition": "when financial institutions receive applications for small business lending",
+        "exemptions": "smaller lenders may face difficulties with compliance",
+        "penalty": null,
+        "severity": "high",
+        "section_reference": "section 1071"
+      }
+    ],
+    "prohibitions": [],
+    "deadlines": [],
+    "exemptions": [
+      {
+        "who": "smaller lenders",
+        "condition": "smaller lenders would face difficulties complying with data collection requirements",
+        "section_reference": "2021 proposed rule comments"
+      }
+    ],
+    "definitions": [
+      {
+        "term": "small business lending",
+        "definition": "applications for credit by small business entities, subject to collection and reporting requirements under section 1071",
+        "relevance": "defines the scope of transactions and data that must be reported under the regulation"
+      },
+      {
+        "term": "Equal Credit Opportunity Act (ECOA)",
+        "definition": "federal law amended by Dodd-Frank Act to include section 1071 requiring data collection on small business lending",
+        "relevance": "establishes the legal framework and authority for small business lending data collection requirements"
+      },
+      {
+        "term": "Home Mortgage Disclosure Act (HMDA)",
+        "definition": "1975 federal law (Public Law 94-200) that has been amended multiple times and serves as a model for data collection approaches",
+        "relevance": "provides precedent for the breadth and scope of financial institution data collection and reporting"
+      },
+      {
+        "term": "Dodd-Frank Act",
+        "definition": "Public Law 111-203 that amended ECOA by adding section 1071 and directing the Bureau to adopt regulations for small business lending data collection",
+        "relevance": "establishes the statutory authority and mandate for the regulation"
+      }
+    ],
+    "section_number": 5
+  }
+]

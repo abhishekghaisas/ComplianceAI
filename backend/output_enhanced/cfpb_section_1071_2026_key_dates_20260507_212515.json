@@ -1,0 +1,58 @@
+{
+  "effective_dates": [
+    {
+      "date": "2023-05-31",
+      "action": "Final rule implementing section 1071 by adding subpart B to Regulation B became effective",
+      "who": "all financial institutions subject to Regulation B",
+      "consequence": "Rule provisions became binding"
+    },
+    {
+      "date": "2026-06-30",
+      "action": "final rule becomes effective",
+      "who": "all covered financial institutions",
+      "consequence": "rule takes effect and institutions must begin compliance preparations"
+    }
+  ],
+  "compliance_dates": [
+    {
+      "date": "2024-07-03",
+      "action": "Interim final rule published extending compliance dates for data collection and reporting on small business lending",
+      "who": "financial institutions preparing to comply with section 1071",
+      "consequence": "Extended compliance deadlines for certain market participants per court orders"
+    },
+    {
+      "date": "2028-01-01",
+      "action": "compliance date for the rule",
+      "who": "all covered financial institutions",
+      "consequence": "institutions must be in full compliance with all requirements; failure to comply may result in enforcement action"
+    }
+  ],
+  "deadlines": [
+    {
+      "date": "2025-12-15",
+      "action": "Submit comments on 2025 proposed rule to amend 2023 final rule",
+      "who": "Public commenters and interested parties",
+      "consequence": "Comments submitted after this date may not be considered in rulemaking"
+    }
+  ],
+  "publication_dates": [
+    {
+      "date": "2025-06-18",
+      "action": "Interim final rule published with further amendments to Regulation B, subpart B",
+      "who": "all financial institutions subject to small business lending requirements",
+      "consequence": "Additional amendments to coverage, definitions, data points, and compliance dates became effective"
+    },
+    {
+      "date": "2025-10-02",
+      "action": "final rule published in Federal Register confirming 2025 interim final rule findings",
+      "who": "CFPB and covered financial institutions",
+      "consequence": "establishes final compliance framework with no further substantive changes"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "CFPB published 2025 proposed rule in Federal Register",
+      "who": "CFPB",
+      "consequence": "Initiated comment period for proposed amendments"
+    }
+  ]
+}

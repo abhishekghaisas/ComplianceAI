@@ -1,0 +1,21 @@
+{
+  "overall_score": 95,
+  "metadata_score": 85,
+  "requirements_score": 100,
+  "entity_score": 100,
+  "details": {
+    "metadata_fields_filled": "6/7",
+    "total_requirements": 30,
+    "total_entities": 709,
+    "entity_breakdown": {
+      "dates": 170,
+      "amounts": 490,
+      "agencies": 9,
+      "citations": 40
+    }
+  },
+  "issues": [
+    "Effective date not found in metadata"
+  ],
+  "grade": "A+"
+}

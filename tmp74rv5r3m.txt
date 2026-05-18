@@ -1,0 +1,128 @@
+
+COMMUNITY BANK LENDING POLICY
+
+Version 3.2
+Effective Date: January 15, 2024
+
+1. PURPOSE AND SCOPE
+
+This policy establishes comprehensive guidelines for all lending activities 
+at Community Bank to ensure compliance with federal and state regulations 
+while maintaining sound lending practices.
+
+2. SMALL BUSINESS LENDING DATA COLLECTION
+
+2.1 Data Collection Requirements
+
+The bank shall collect the following information for all small business 
+loan applications:
+
+- Business demographic information including NAICS code
+- Ownership demographics (race, ethnicity, gender of principal owners)
+- Gross annual revenue
+- Loan amount requested and approved
+- Loan type and purpose
+- Pricing information (interest rate, fees)
+- Credit decision and action taken
+- Reasons for denial if applicable
+
+2.2 Reporting Requirements
+
+All collected data must be compiled and reported to the Consumer Financial 
+Protection Bureau (CFPB) on a quarterly basis. Reports are due within 30 
+days following the end of each calendar quarter.
+
+The bank maintains a dedicated compliance team responsible for data quality 
+and timely submission of required reports.
+
+3. FAIR LENDING AND NON-DISCRIMINATION
+
+3.1 Prohibited Basis
+
+The bank strictly prohibits discrimination in lending on the basis of:
+- Race or color
+- Religion
+- National origin
+- Sex or gender
+- Marital status
+- Age (provided applicant has capacity to contract)
+- Receipt of public assistance
+
+3.2 Equal Treatment
+
+All applicants shall be evaluated using the same underwriting criteria 
+and standards. Loan officers must document all credit decisions with 
+objective, verifiable factors.
+
+Any deviation from standard terms must be justified with business reasons 
+documented in the loan file.
+
+4. CUSTOMER DUE DILIGENCE
+
+4.1 Customer Identification Program (CIP)
+
+All new customers must be properly identified and verified before 
+establishing a banking relationship. Required identification includes:
+- Full legal name
+- Date of birth
+- Physical address (not PO Box)
+- Government-issued identification number
+
+4.2 Beneficial Ownership
+
+For legal entity customers, the bank must identify and verify beneficial 
+owners who own 25% or more of the entity or who exercise control.
+
+4.3 Record Retention
+
+Customer identification records must be maintained for five years after 
+account closure. This includes copies of identification documents and 
+verification procedures performed.
+
+5. ADVERSE ACTION NOTIFICATIONS
+
+When the bank takes adverse action on a credit application, the applicant 
+must be notified within 30 days. The notice must include:
+- Statement of action taken
+- Specific reasons for the decision
+- ECOA notice of rights
+- Credit bureau information if credit report was used
+
+All adverse action notices are reviewed by compliance before sending.
+
+6. APPRAISAL REQUIREMENTS
+
+For residential real estate secured loans, the bank provides applicants 
+with a free copy of all appraisals and written valuations.
+
+Appraisals must be provided at least three business days before loan 
+consummation to allow borrower review.
+
+7. COMPLIANCE MONITORING
+
+7.1 Internal Audits
+
+The compliance department conducts quarterly audits of lending activities 
+to ensure adherence to this policy and applicable regulations.
+
+7.2 Training
+
+All lending personnel must complete annual fair lending and compliance 
+training. New hires receive training within 30 days of employment.
+
+7.3 Policy Review
+
+This policy is reviewed annually and updated as needed to reflect changes 
+in regulations, business practices, or identified deficiencies.
+
+8. APPROVAL AND AUTHORITY
+
+Loan approval authority is delegated based on loan amount and risk rating:
+- Loans up to $100,000: Senior loan officers
+- Loans $100,000 to $500,000: Lending managers
+- Loans over $500,000: Senior credit committee
+
+9. EXCEPTIONS
+
+Any exceptions to this policy must be approved by the Chief Credit Officer 
+and documented with business justification.

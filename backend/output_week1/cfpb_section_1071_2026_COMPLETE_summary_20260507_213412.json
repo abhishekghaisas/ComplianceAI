@@ -1,0 +1,73 @@
+{
+  "document": {
+    "file_name": "cfpb_section_1071_2026.pdf",
+    "processed_at": "20260507_213412",
+    "agency": "CFPB",
+    "document_type": "Final Rule",
+    "regulation_number": "12 CFR Part 1002",
+    "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)",
+    "publication_date": "2026-05-01",
+    "effective_date": null,
+    "comment_deadline": null,
+    "topics": [
+      "small business lending",
+      "Equal Credit Opportunity Act",
+      "data collection",
+      "credit transactions",
+      "financial institutions",
+      "Section 1071",
+      "Dodd-Frank Act"
+    ],
+    "affected_entities": [
+      "financial institutions",
+      "small businesses",
+      "banks",
+      "credit unions"
+    ],
+    "summary": "The CFPB is revising Regulation B, subpart B to amend coverage of credit transactions and financial institutions, redefine small business criteria, modify data collection requirements, and adjust compliance dates for Section 1071 small business lending data reporting."
+  },
+  "analysis": {
+    "pages": 97,
+    "characters": 719269,
+    "sections": 213,
+    "tables": 11,
+    "obligations": 15,
+    "prohibitions": 1,
+    "deadlines": 14,
+    "definitions": 22,
+    "dates": 170,
+    "amounts": 490,
+    "agencies": 9,
+    "citations": 40,
+    "total_sections": 23,
+    "max_depth": 0,
+    "avg_section_length": 31019.478260869564
+  },
+  "quality": {
+    "overall_score": 95,
+    "metadata_score": 85,
+    "requirements_score": 100,
+    "entity_score": 100,
+    "details": {
+      "metadata_fields_filled": "6/7",
+      "total_requirements": 30,
+      "total_entities": 709,
+      "entity_breakdown": {
+        "dates": 170,
+        "amounts": 490,
+        "agencies": 9,
+        "citations": 40
+      }
+    },
+    "issues": [
+      "Effective date not found in metadata"
+    ],
+    "grade": "A+"
+  },
+  "outputs": {
+    "html_report": "cfpb_section_1071_2026_report_20260507_213412.html",
+    "markdown_report": "cfpb_section_1071_2026_report_20260507_213412.md",
+    "executive_summary": "cfpb_section_1071_2026_executive_summary_20260507_213412.docx",
+    "json_files": 5
+  }
+}

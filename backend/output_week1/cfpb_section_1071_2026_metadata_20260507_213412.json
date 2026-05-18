@@ -1,0 +1,25 @@
+{
+  "agency": "CFPB",
+  "document_type": "Final Rule",
+  "regulation_number": "12 CFR Part 1002",
+  "title": "Small Business Lending Under the Equal Credit Opportunity Act (Regulation B)",
+  "publication_date": "2026-05-01",
+  "effective_date": null,
+  "comment_deadline": null,
+  "topics": [
+    "small business lending",
+    "Equal Credit Opportunity Act",
+    "data collection",
+    "credit transactions",
+    "financial institutions",
+    "Section 1071",
+    "Dodd-Frank Act"
+  ],
+  "affected_entities": [
+    "financial institutions",
+    "small businesses",
+    "banks",
+    "credit unions"
+  ],
+  "summary": "The CFPB is revising Regulation B, subpart B to amend coverage of credit transactions and financial institutions, redefine small business criteria, modify data collection requirements, and adjust compliance dates for Section 1071 small business lending data reporting."
+}
