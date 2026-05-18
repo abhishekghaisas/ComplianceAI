@@ -577,11 +577,11 @@ This project is available for use as a portfolio demonstration, educational purp
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Abhishek Ghaisas**
 
-- 🌐 Portfolio: [yourportfolio.com](https://abhishek-portfolio-nine-nu.vercel.app/index.html)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/abhishek-ghaisas)
-- 🐙 GitHub: [@yourusername](https://github.com/abhishekghaisas)
+- 🌐 Portfolio: [Portfolio](https://abhishek-portfolio-nine-nu.vercel.app/index.html)
+- 💼 LinkedIn: [linkedin.com/in/abhishek-ghaisas](https://linkedin.com/in/abhishek-ghaisas)
+- 🐙 GitHub: [@abhishekghaisas](https://github.com/abhishekghaisas)
 - 📧 Email: abhishekghaisas22@gmail.com
 
 ---
