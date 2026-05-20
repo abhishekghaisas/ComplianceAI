@@ -60,11 +60,10 @@
 | Metric | Value | Description |
 |--------|-------|-------------|
 | **Time Savings** | 97.5% | 8 hours → 10 minutes per regulation |
-| **Cost Savings** | $113,500/year | For typical bank (100 regulations/year) |
+| **Potential Cost Savings** | $113,500/year | For typical bank (100 regulations/year) |
 | **Extraction Accuracy** | 95% | Requirement identification from PDFs |
 | **Gap Detection** | 60% | Policy-to-requirement matching |
 | **Processing Speed** | 3 minutes | End-to-end analysis (100-page document) |
-| **Infrastructure Cost** | $0 | Runs on local models |
 
 ---
 
