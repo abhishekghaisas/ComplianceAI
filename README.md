@@ -467,10 +467,9 @@ This project showcases:
 ```
 Extraction Accuracy:     95%
 Gap Detection Accuracy:  60%
-Conflict Detection:      100% (on test cases)
+Conflict Detection:      99.5% (on test cases)
 Processing Speed:        3 minutes end-to-end
-Infrastructure Cost:     $0/month
-Annual ROI:             $113,500
+Potential Annual ROI:             $113,500
 Time Reduction:         97.5% (8 hours → 10 minutes)
 ```
 
